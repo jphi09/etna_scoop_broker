@@ -1,0 +1,37 @@
+#####################################################
+# Syntax Coloring Map For etna_robots library
+#####################################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+RobotStarter		KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin				KEYWORD2
+connexionNetwork	KEYWORD2
+scanNetwork			KEYWORD2
+disconnectNetwork	KEYWORD2
+memoryNetwork		KEYWORD2
+SearchKnowNetwork	KEYWORD2
+WiFiEvent			KEYWORD2
+setupServer			KEYWORD2
+launchServer		KEYWORD2
+connect				KEYWORD2
+connect8266			KEYWORD2
+WiFiEventRelais		KEYWORD2
+doStarterRelais		KEYWORD2
+doStarter			KEYWORD2
+loop				KEYWORD2
+########################################
+# type Definitions (KEYWORD3)
+########################################
+TopicCallback		KEYWORD3
+
+#######################################
+# Constants (LITERAL1)
+#######################################
